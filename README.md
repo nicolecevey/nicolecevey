@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Nicole
+## Hi there 👋 I'm Nicole
 
-I'm a full-stack web developer with a passion for UX design.
+### I'm a full-stack web developer with a passion for UX design.
 
 - 👩🏻‍🎓 I'm a recent bootcamp graduate
 - ✍🏻 I’m currently working on a mobile pet social app
