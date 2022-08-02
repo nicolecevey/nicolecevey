@@ -4,7 +4,7 @@
 
 - 👩🏻‍🎓 I'm a recent bootcamp graduate
 - ✍🏻 I’m currently working on a mobile pet social app
-- 🤓 Im currently learning how to build iOS and Android apps with React Native
+- 🤓 I'm currently learning how to build iOS and Android apps with React Native
 - 💬 Ask me about my cat oliver! 🐈‍⬛
 - ⚡ Fun fact: I used to work as a coporate legal assistant before transitioning to web development!
 - 😄 Pronouns: she/her
